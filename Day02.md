@@ -26,3 +26,12 @@
 * git switch     
   -현재 브랜치에서 다른 브랜치로 HEAD를 이동시키는 명령어
   
+-------------------
+## branch-merge
+* git merge     
+  -분기된 브랜치들을 하나로 합치는 명령어      
+  -merge하기 전 메인 브랜치로 switch를 해야 함
+* Merge의 세 종류    
+  1. Fast-Forward
+  2. Way Merge
+  3. Merge Conflict
